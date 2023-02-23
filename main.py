@@ -20,12 +20,3 @@ for month in listOfMonths:
             to="+5584986460017", 
             from_="+12762778942",
             body=f"No mes {month} alguém bateu a meta. Vendedor: {seller}, Vendas: {sales}")
-
-
-
-
-
-
-
-
-print(message.sid)
